@@ -1,4 +1,4 @@
-#  mfcc 자르기 코드
+#  음성파일 자르기 코드
 import pandas as pd
 import librosa.segment
 import math
